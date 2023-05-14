@@ -820,9 +820,8 @@ svg:hover path {
         margin-top: 5%;
         /* margin-left: 20px; */
         margin-right: 60px;
-        font-size: 28px;
-        line-height: 50px;
-
+        font-size: 18px;
+        line-height: 28px;
     }
 
     .paragraph h3 {
@@ -917,8 +916,8 @@ svg:hover path {
         margin-top: 5%;
         /* margin-left: 20px; */
         margin-right: 60px;
-        font-size: 28px;
-        line-height: 50px;
+        font-size: 18px;
+        line-height: 28px;
     }
 
     .paragraph1 h5 {
@@ -1112,14 +1111,14 @@ svg:hover path {
         width: 100%;
         height: 340px;
         margin: auto;
-        margin-bottom: 25px;
+        margin-bottom: 70px;
         background-color: white;
         border-radius: 13px;
     }
     
     .s-image {
         width:100%;
-        height: 250px;
+        height: 290px;
         margin: auto;
     
     }
@@ -1150,7 +1149,7 @@ svg:hover path {
     
     .s-image img {
         width: 90%;
-        height: 250px;
+        height: 280px;
         border-radius: 50%;
     }
     
